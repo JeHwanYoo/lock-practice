@@ -7,7 +7,8 @@
     "lint": "eslint .",
     "fix": "eslint . --fix",
     "test:coverage": "vitest run --coverage",
-    "test:mongoose": "vitest run --project mongoose"
+    "test:mongoose": "vitest run --project mongoose",
+    "prepare": "husky"
   },
   "keywords": [],
   "author": "",
@@ -16,6 +17,7 @@
     "@vitest/coverage-v8": "^1.6.0",
     "eslint-config-prettier": "^9.1.0",
     "eslint-plugin-prettier": "^5.1.3",
+    "husky": "^9.0.11",
     "mongoose": "^8.4.0",
     "prettier": "^3.2.5",
     "testcontainers": "^10.9.0",
