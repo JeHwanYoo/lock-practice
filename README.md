@@ -4,7 +4,6 @@
 
 - [ ] Mongoose (MongoDB)
   - [ ] 낙관적 락
-  - [ ] 비관적 락
 - [ ] TypeOrm (Postgres)
   - [ ] 낙관적 락
   - [ ] 비관적 락

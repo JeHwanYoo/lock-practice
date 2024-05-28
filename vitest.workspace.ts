@@ -5,7 +5,7 @@ export default defineWorkspace([
     extends: './vitest.config.ts',
     test: {
       name: 'mongoose',
-      include: ['mongoose/**/*.spec.ts']
-    }
-  }
+      include: ['mongoose/**/*.spec.ts'],
+    },
+  },
 ])
