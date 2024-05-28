@@ -16,6 +16,10 @@
 - [ ] Redis
   - [ ] 분산 락
 
+## Prerequisite
+
+이 실습을 진행하기 위해서는 [Docker](https://www.docker.com/)가 설치되어 있어야 합니다.
+
 ## 락의 종류
 
 ### 낙관적 락
